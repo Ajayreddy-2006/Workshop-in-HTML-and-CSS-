@@ -1,4 +1,5 @@
 ## code:
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -96,5 +97,6 @@
     </footer>
 </body>
 </html>
+```
  ## output:
- ![Screenshot 2023-12-01 105419](https://github.com/Ajayreddy-2006/Workshop-in-HTML-and-CSS-/assets/145742508/fc213fad-fda2-492a-a98f-eb1c16c8fc82)
+![Screenshot 2023-12-01 105419](https://github.com/Ajayreddy-2006/Workshop-in-HTML-and-CSS-/assets/145742508/108863c9-e826-4a25-ad1b-4f5268284cd6)
